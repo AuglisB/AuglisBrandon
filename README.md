@@ -31,5 +31,4 @@
 - 👯 I’m looking to collaborate on any Azure Cloud Security projects.
 - 🤔 I’m looking for help with advice on how to break into the Cybersecurity Career path.
 - 💬 Ask me about anything (I'm an open book for the most part).
-- 📫 How to reach me: www.linkedin.com/in/brandonauglis
 - 😄 Pronouns: (He/Him)
