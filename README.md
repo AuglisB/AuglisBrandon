@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/AuglisBrandon/Active-Directory-Home-Lab)
 
 
-- <b>Certifications</b>
+<H2. - Certifications</h2>
   
   - <b>CompTIA Security + CE<b>
   - <b>AZ-900 Microsoft Azure Fundementals<b>
