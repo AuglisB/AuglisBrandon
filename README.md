@@ -10,7 +10,7 @@
   - <b>CompTIA Security + CE<b>
   - <b>AZ-900 Microsoft Azure Fundementals<b>
 
-- <b>Python</b>
+<h2> - Python</h2>
 
   - <b>Repositories Coming Soon...<b>
 
