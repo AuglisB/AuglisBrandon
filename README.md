@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/AuglisBrandon/Active-Directory-Home-Lab)
-- [Setting up a SIEM in Azure]()
-- [File Integrity Monitor]()
-- [Vulnerability Managemnt Lab]()
-- [Simple REST API]()
+- [Setting up a SIEM in Azure]() Coming Soon
+- [File Integrity Monitor]() Coming Soon
+- [Vulnerability Managemnt Lab]() Coming Soon
+- [Simple REST API]() Coming Soon
 
 <h2> - Certifications</h2>
   
