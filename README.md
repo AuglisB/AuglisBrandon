@@ -8,12 +8,12 @@
 - [Vulnerability Managemnt Lab]() Coming Soon
 - [Simple REST API]() Coming Soon
 
-<h2> - Certifications</h2>
+<h2> - Certifications:</h2>
   
   - <b>CompTIA Security + CE<b>
   - <b>AZ-900 Microsoft Azure Fundementals<b>
 
-<h2> - Python</h2>
+<h2> - Python:</h2>
 
   - [EnemyVSPlayer](https://github.com/AuglisBrandon/EnemyVSPlayer)
 
