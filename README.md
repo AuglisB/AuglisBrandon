@@ -27,7 +27,7 @@
   
   
   
-  <h2> - Information</hr>  
+  <h2> - Information:</h2>  
   
 - 🔭 I’m currently working on, AZ-500/ISC2 CC
 - 🌱 I’m currently learning AZ-500 Firewall/MFA controls.
