@@ -6,7 +6,7 @@
 - [Setting up a SIEM in Azure](https://github.com/AuglisBrandon/SettingUpAzureSIEM)
 - [Azure Firewall Tutorial]() Comming Soon
 - [File Integrity Monitor]() Coming Soon
-- [Vulnerability Managemnt Lab]() Coming Soon
+- [Vulnerability Management Lab]() Coming Soon
 - [Simple REST API]() Coming Soon
 
 
