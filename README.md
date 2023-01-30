@@ -5,6 +5,7 @@
 - [Active Directory Home Lab](https://github.com/AuglisBrandon/Active-Directory-Home-Lab)
 - [Setting up a SIEM in Azure](https://github.com/AuglisBrandon/SettingUpAzureSIEM)
 - [Azure Firewall Tutorial](https://github.com/AuglisBrandon/AzureFirewallConfig) 
+- [Jenkins CI/CD Project] Coming Soon
 - [Vulnerability Management Lab]() Coming Soon
 - [File Integrity Monitor]() Coming Soon
 - [Simple REST API]() Coming Soon
